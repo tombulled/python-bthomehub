@@ -1,0 +1,5 @@
+"""
+HTTP Endpoints
+"""
+
+MAIN = 'main/'
